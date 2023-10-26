@@ -1,0 +1,7 @@
+public class Activites
+{
+  public static void DayToDayActivites()
+  {
+    Console.WriteLine("Am Waking up at 10 Am in the morning");
+  }
+}
